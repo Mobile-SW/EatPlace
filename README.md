@@ -5,14 +5,6 @@
 > 2021.10.02 - 2021.12.16
 
 
-## 📄 Document
-> [notion][notion]
-> 
-> [Figma][figma]
-
-[notion]: https://www.notion.so/SW-2e3ec0e13ea24476894b75b16330c5cc
-[figma]: https://www.figma.com/file/ZneZHoIfBwNZiZZexglHum/Untitled
-
 ## 🤼‍Team
 > [장유진][jlink] `팀장`
 > 
@@ -26,6 +18,16 @@
 [klink]: https://github.com/kwon-mingoo-3596
 [mlink]: https://github.com/kmin3560
 [plink]: https://github.com/sue0725
+
+
+## 📄 Document
+> [notion][notion]
+> 
+> [Figma][figma]
+
+[notion]: https://www.notion.so/SW-2e3ec0e13ea24476894b75b16330c5cc
+[figma]: https://www.figma.com/file/ZneZHoIfBwNZiZZexglHum/Untitled
+
 
 ## 🛠️ Using Technology
 - HTML 
