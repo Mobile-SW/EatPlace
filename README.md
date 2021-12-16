@@ -25,7 +25,7 @@
 > 
 > [Figma][figma]
 
-[notion]: https://www.notion.so/SW-2e3ec0e13ea24476894b75b16330c5cc
+[notion]: https://outrageous-wizard-29b.notion.site/SW-2e3ec0e13ea24476894b75b16330c5cc
 [figma]: https://www.figma.com/file/ZneZHoIfBwNZiZZexglHum/Untitled
 
 
