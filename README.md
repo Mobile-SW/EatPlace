@@ -5,24 +5,22 @@
 
 
 ## 📄 Document
-[notion].[notion]
-[Figma].[figma]
+> [notion][notion]
+> [Figma][figma]
 
 [notion]: https://www.notion.so/SW-2e3ec0e13ea24476894b75b16330c5cc
 [figma]: https://www.figma.com/file/ZneZHoIfBwNZiZZexglHum/Untitled
 
 ## 🤼‍Team
-> 장유진[jlink]
-> 권민구[klink]
-> 김민송[mlink]
-> 박수현[plink]
+> [장유진][jlink]
+> [권민구][klink]
+> [김민송][mlink]
+> [박수현][plink]
 
 [jlink]: https://github.com/youjin8739
 [klink]: https://github.com/kwon-mingoo-3596
 [mlink]: https://github.com/kmin3560
 [plink]: https://github.com/sue0725
-
-https://www.notion.so/SW-2e3ec0e13ea24476894b75b16330c5cc
 
 ## 🛠️ Using Technology
 - HTML 
