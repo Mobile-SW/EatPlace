@@ -6,13 +6,14 @@
 
 ## 📄 Document
 > [notion][notion]
+> 
 > [Figma][figma]
 
 [notion]: https://www.notion.so/SW-2e3ec0e13ea24476894b75b16330c5cc
 [figma]: https://www.figma.com/file/ZneZHoIfBwNZiZZexglHum/Untitled
 
 ## 🤼‍Team
-> [장유진][jlink] '팀장'
+> [장유진][jlink] `팀장`
 > [권민구][klink]
 > [김민송][mlink]
 > [박수현][plink]
