@@ -14,8 +14,11 @@
 
 ## 🤼‍Team
 > [장유진][jlink] `팀장`
+> 
 > [권민구][klink]
+> 
 > [김민송][mlink]
+> 
 > [박수현][plink]
 
 [jlink]: https://github.com/youjin8739
