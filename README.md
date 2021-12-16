@@ -12,7 +12,7 @@
 [figma]: https://www.figma.com/file/ZneZHoIfBwNZiZZexglHum/Untitled
 
 ## 🤼‍Team
-> [장유진][jlink]
+> [장유진][jlink] '팀장'
 > [권민구][klink]
 > [김민송][mlink]
 > [박수현][plink]
